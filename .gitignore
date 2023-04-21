@@ -1,0 +1,8 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/Gimnasio/Library/obj/Debug
+/.vs/Individual-EnFit/v16
+/.vs
+/Gimnasio/.vs/Gimnasio/v16
